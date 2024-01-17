@@ -1,4 +1,4 @@
-module common-host-utils
+module github.com/hpe-storage/common-host-utils
 
 go 1.19
 
